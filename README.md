@@ -1,4 +1,4 @@
-# Brain Tumor MRI Classification — CNN-GNN Framework
+# Brain Tumor MRI Classification - CNN-GNN Framework
 
 This repository contains the code and notebooks accompanying the manuscript:
 
