@@ -60,5 +60,3 @@ If you use this code or the associated dataset combination, please cite the orig
 ## License
 
 Please refer to the individual licenses of the original dataset sources (Figshare, SARTAJ, Br35H) linked above for terms of use.
-
-
