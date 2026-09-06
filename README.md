@@ -51,7 +51,7 @@ The dataset was split into training, validation, and testing subsets using an **
 
 1. Download the dataset from the Kaggle link above (requires a free Kaggle account).
 2. Place the extracted image folders according to the paths expected in the notebook(s) in this repository.
-3. Run the notebook(s) to reproduce preprocessing, CNN feature extraction (ResNet50, InceptionV3, EfficientNet-B3), graph construction, GCN training, metaheuristic hyperparameter optimization (PSO, MFO, GWO), and explainability (Grad-CAM, Grad-CAM++, Score-CAM, GNNExplainer) as described in the manuscript.
+3. Run the notebook(s) to reproduce preprocessing, CNN feature extraction (ResNet50, InceptionV3, EfficientNet-B3), graph construction, GCN training, metaheuristic hyperparameter optimization (PSO, MFO, GWO), and explainability (Grad-CAM, Grad-CAM++, Score-CAM, GNNExplainer) as described in the manuscript .
 
 ## Citation
 
